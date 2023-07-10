@@ -1,0 +1,30 @@
+﻿div {
+    background-color: rgb(34, 27, 27);
+    color: lightgray;
+}
+
+body {
+    background-color: rgb(34, 27, 27);
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+}
+
+.Prize {
+    color: gold;
+    display:flex;
+    justify-content:center;
+}
+
+.Test {
+    color: lightgray;
+    display: flex;
+    justify-content: center;
+}
+
+.border1 {
+    border-style:dotted;
+    border-color: gold;
+}
