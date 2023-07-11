@@ -1,0 +1,46 @@
+﻿div {
+    background-color: rgb(34, 27, 27);
+    color: lightgray;
+}
+
+body {
+    background-color: rgb(34, 27, 27);
+}
+
+.con0{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+    font-family: Consolas, sans-serif;
+    font-style: italic;
+    color: crimson;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    font-family: Consolas, sans-serif;
+}
+
+.Prize {
+    color: gold;
+    display:flex;
+    justify-content:center;
+}
+
+.Test {
+    color: lightgray;
+    display: flex;
+    justify-content: center;
+}
+
+.border1 {
+    border-style:dotted;
+    border-color: gold;
+}
+
